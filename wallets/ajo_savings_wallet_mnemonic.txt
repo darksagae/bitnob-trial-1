@@ -1,0 +1,8 @@
+# Ajo Bitcoin Savings Wallet - 2025-07-09 06:13:02.810986
+# IMPORTANT: Keep this secure and private!
+# Mnemonic phrase for wallet recovery:
+
+dragon luxury inject pyramid purpose beach recall seven own top juice merit
+
+# Wallet name: ajo_savings_wallet
+# Created: 2025-07-09 06:13:02.810986

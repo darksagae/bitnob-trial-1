@@ -1,0 +1,4 @@
+bitcoinlib==0.6.0
+pycryptodome==3.19.0
+requests==2.31.0
+tkinter-tooltip==2.0.0 

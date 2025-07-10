@@ -18,7 +18,7 @@ COMMISSION_RATE = 0.01  # 1% commission on transactions
 COMMISSION_DESCRIPTION = "1% transaction fee"
 
 # Bitnob API Configuration
-BITNOB_API_BASE_URL = "https://api.bitnob.co"
+BITNOB_ API_BASE_URL = "https://api.bitnob.co"
 BITNOB_API_KEY = "YOUR_BITNOB_API_KEY_HERE"  # Replace with actual API key
 BITNOB_WEBHOOK_URL = "https://your-domain.com/webhook"
 

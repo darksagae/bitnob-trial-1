@@ -1,0 +1,14 @@
+# Ajo Bitcoin Savings App - Production Requirements
+# Core dependencies for the production-ready app
+
+# HTTP requests for Bitnob API integration
+requests>=2.28.0
+
+# No crypto dependencies to avoid installation issues
+# bitcoinlib and pycryptodome are excluded for compatibility
+
+# Optional: For enhanced CSV export functionality
+# pandas>=1.5.0
+
+# Optional: For enhanced GUI styling (if needed)
+# pillow>=9.0.0 

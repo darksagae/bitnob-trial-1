@@ -1,0 +1,32 @@
+2025-07-10 11:15:30,525 - INFO - Database tables created successfully
+2025-07-10 11:15:30,526 - INFO - Database initialized: ajo_savings.db
+2025-07-10 11:15:30,527 - INFO - Bitnob API client initialized
+2025-07-10 11:15:30,571 - INFO - Creating new Bitcoin wallet
+2025-07-10 11:15:30,983 - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:15:30,983 - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:15:30,989 - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 11:16:03,609 - INFO - User interface initialized
+2025-07-10 11:16:03,609 - ERROR - Application failed to start: 'UserUI' object has no attribute 'run'
+2025-07-10 11:17:28,659 - INFO - Database tables created successfully
+2025-07-10 11:17:28,659 - INFO - Database initialized: ajo_savings.db
+2025-07-10 11:17:28,659 - INFO - Bitnob API client initialized
+2025-07-10 11:17:28,659 - INFO - Creating new Bitcoin wallet
+2025-07-10 11:17:28,860 - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:17:28,860 - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:17:28,860 - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 11:17:52,345 - INFO - Admin portal initialized
+2025-07-10 11:17:52,345 - INFO - Admin interface initialized
+2025-07-10 11:17:52,345 - ERROR - Error refreshing dashboard: 'App' object has no attribute 'get_savings_summary'
+2025-07-10 11:18:57,299 - WARNING - Failed admin authentication attempt: admin
+2025-07-10 11:20:23,402 - WARNING - Failed admin authentication attempt: admin
+2025-07-10 11:23:08,919 - INFO - Database tables created successfully
+2025-07-10 11:23:08,919 - INFO - Database initialized: ajo_savings.db
+2025-07-10 11:23:08,919 - INFO - Bitnob API client initialized
+2025-07-10 11:23:08,919 - INFO - Creating new Bitcoin wallet
+2025-07-10 11:23:09,175 - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:23:09,175 - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 11:23:09,175 - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 11:23:19,610 - INFO - Admin portal initialized
+2025-07-10 11:23:19,610 - INFO - Admin interface initialized
+2025-07-10 11:23:19,610 - ERROR - Error refreshing dashboard: 'App' object has no attribute 'get_savings_summary'
+2025-07-10 11:23:43,329 - WARNING - Failed admin authentication attempt: admin

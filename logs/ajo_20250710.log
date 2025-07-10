@@ -1,0 +1,67 @@
+2025-07-10 07:52:28,843 - database - INFO - Database tables created successfully
+2025-07-10 07:52:28,853 - database - INFO - Database initialized: ajo_savings.db
+2025-07-10 07:52:28,853 - wallet - INFO - Creating new Bitcoin wallet
+2025-07-10 07:52:29,573 - bitcoinlib.wallets - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 07:52:29,573 - wallet - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 07:52:29,578 - wallet - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 07:52:29,578 - api - INFO - Bitnob API client initialized
+2025-07-10 07:52:29,579 - __main__ - INFO - Ajo Bitcoin Savings App initialized successfully
+2025-07-10 07:52:29,579 - __main__ - INFO - Background sync started
+2025-07-10 07:52:32,938 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 07:52:35,085 - ui - INFO - User interface initialized
+2025-07-10 07:56:51,916 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 07:57:33,183 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 08:02:33,425 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 08:07:33,663 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 08:12:33,912 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:14:11,587 - database - INFO - Database tables created successfully
+2025-07-10 09:14:11,587 - database - INFO - Database initialized: ajo_savings.db
+2025-07-10 09:14:11,587 - wallet - INFO - Creating new Bitcoin wallet
+2025-07-10 09:14:11,892 - bitcoinlib.wallets - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:14:11,892 - wallet - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:14:11,892 - wallet - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 09:14:11,892 - api - INFO - Bitnob API client initialized
+2025-07-10 09:14:11,892 - __main__ - INFO - Ajo Bitcoin Savings App initialized successfully
+2025-07-10 09:14:11,892 - __main__ - INFO - Background sync started
+2025-07-10 09:14:13,486 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:14:13,596 - admin - INFO - Admin portal initialized
+2025-07-10 09:14:13,596 - ui - INFO - User interface initialized
+2025-07-10 09:19:13,647 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:56:49,625 - database - INFO - Database tables created successfully
+2025-07-10 09:56:49,625 - database - INFO - Database initialized: ajo_savings.db
+2025-07-10 09:56:49,628 - wallet - INFO - Creating new Bitcoin wallet
+2025-07-10 09:56:49,908 - bitcoinlib.wallets - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:56:49,908 - wallet - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:56:49,908 - wallet - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 09:56:49,908 - api - INFO - Bitnob API client initialized
+2025-07-10 09:56:49,908 - __main__ - INFO - Ajo Bitcoin Savings App initialized successfully
+2025-07-10 09:56:49,908 - __main__ - INFO - Background sync started
+2025-07-10 09:56:51,061 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:56:51,418 - admin - INFO - Admin portal initialized
+2025-07-10 09:56:51,419 - ui - INFO - User interface initialized
+2025-07-10 09:58:48,115 - database - INFO - Database tables created successfully
+2025-07-10 09:58:48,115 - database - INFO - Database initialized: ajo_savings.db
+2025-07-10 09:58:48,115 - wallet - INFO - Creating new Bitcoin wallet
+2025-07-10 09:58:48,344 - bitcoinlib.wallets - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:58:48,344 - wallet - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:58:48,344 - wallet - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 09:58:48,344 - api - INFO - Bitnob API client initialized
+2025-07-10 09:58:48,344 - __main__ - INFO - Ajo Bitcoin Savings App initialized successfully
+2025-07-10 09:58:48,344 - __main__ - INFO - Background sync started
+2025-07-10 09:58:49,340 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:58:49,650 - admin - INFO - Admin portal initialized
+2025-07-10 09:58:49,650 - ui - INFO - User interface initialized
+2025-07-10 09:59:26,820 - admin - WARNING - Failed admin authentication attempt: darksagae
+2025-07-10 09:59:55,704 - database - INFO - Database tables created successfully
+2025-07-10 09:59:55,704 - database - INFO - Database initialized: ajo_savings.db
+2025-07-10 09:59:55,704 - wallet - INFO - Creating new Bitcoin wallet
+2025-07-10 09:59:55,955 - bitcoinlib.wallets - ERROR - Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:59:55,955 - wallet - ERROR - Failed to create wallet: Wallet with name 'ajo_savings_wallet' already exists
+2025-07-10 09:59:55,955 - wallet - INFO - Bitcoin wallet initialized: ajo_savings_wallet
+2025-07-10 09:59:55,955 - api - INFO - Bitnob API client initialized
+2025-07-10 09:59:55,955 - __main__ - INFO - Ajo Bitcoin Savings App initialized successfully
+2025-07-10 09:59:55,965 - __main__ - INFO - Background sync started
+2025-07-10 09:59:56,739 - __main__ - INFO - No internet connection, skipping sync
+2025-07-10 09:59:56,914 - admin - INFO - Admin portal initialized
+2025-07-10 09:59:56,914 - ui - INFO - User interface initialized
+2025-07-10 10:00:30,766 - admin - WARNING - Failed admin authentication attempt: darksagae
